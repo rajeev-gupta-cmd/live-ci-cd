@@ -47,6 +47,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "running on workflow_dispatch"
-        run: echo "running on workflow_dispatch"
+        run: echo "running on workflow_dispatch  "
   
   
